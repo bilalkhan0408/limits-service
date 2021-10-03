@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class LimitsServiceApplication {
-// hiiiiiiiiiiiis\
-	// bilal khan dddddd
+// change line from other person
 	public static void main(String[] args) {
 		SpringApplication.run(LimitsServiceApplication.class, args);
 	}
